@@ -15,3 +15,7 @@ Use the clear command to stop chunkloading all turtles.
 
 
 Keep in mind loaded chunks will still not allow things like plant growth, I reccomend using the TickTock mod if it's needed
+
+## Warning
+
+This is not a very well tested program, and just by the nature of how it's implemented there's always the chance a turtle gets untracked or chunks remain permanently loaded. Worked pretty well when I tested it but you never know. Use with care!
